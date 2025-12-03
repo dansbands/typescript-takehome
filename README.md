@@ -5,7 +5,7 @@ Over the last several years, data privacy regulations like GDPR and CCPA are com
 
 The typical version of a data map is simply a spreadsheet report that lists a lot of details about all the individual systems a company uses. You can see an example of this here:
 ![image](https://user-images.githubusercontent.com/1834295/133648226-85304283-b87b-484a-9b69-a0964412fe53.png)
-(NOTE: There are a lot more columns to the right, too… (source: [ico.org.uk template](https://ico.org.uk/media/for-organisations/documents/2172937/gdpr-documentation-controller-template.xlsx))
+(NOTE: There are a lot more columns to the right, too… (source: [ico.org.uk template](https://ico.org.uk/media2/migrated/2172937/gdpr-documentation-controller-template.xlsx))
 
 ## Your Task
 We believe we can do better than a spreadsheet to visualize and understand a data map! **Your challenge is to write a small frontend browser-based application that visualizes an interactive data map given a static list of system definitions.**
